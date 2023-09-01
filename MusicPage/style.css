@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: #03174c;
+    width: 32vw;
+    height: 100vh;
+}
+
+.mainbox {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png);
+    height: 40vh;
+    width: 32vw;
+    background-size: cover;
+    color: white;
+    font-family: Bree Serif;
+}
+
+.subbox h2 {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.subbox p {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 5px;
+}
+
+.img {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png);
+    height: 30vh;
+    width: 25vw;
+    background-size: cover;
+    margin-left: 30px;
+    margin-top: 140px;
+}
+
+.img h2 {
+    text-align: center;
+    padding-top: 55px;
+    font-size: 43px;
+    color: #ffe7bf;
+}
+
+.subbox3 p {
+    text-align: center;
+    font-size: 15px;
+    margin: 5px;
+    margin-left: 35px;
+    margin-right: 65px;
+}
+
+.subbox1 button {
+    background-color: #8e97fd;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+.bg1 {
+    background-color: #03174c;
+    width: 35vw;
+    height: 110vh;
+}
+
+.BOOX img {
+    height: 50vh;
+    width: 35vw;
+    background-size: cover;
+}
+
+.BOOX h2 {
+    color: white;
+    font-family: Bree Serif;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.BOOX p {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.BOOX h4 {
+    color: white;
+    font-family: Bree Serif;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.uniquebox img {
+    height: 20vh;
+    width: 15vw;
+    margin-left: 20px;
+}
+
+.uniquebox1 img {
+    height: 20vh;
+    width: 15vw;
+    margin-left: 20px;
+}
+
+.secondbox h6 {
+    color: white;
+    font-family: Bree Serif;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.secondbox p {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.Ibutton {
+    background-color: #8e97fd;
+    padding: 5px 35px 5px 35px;
+    font-size: 15px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+}
